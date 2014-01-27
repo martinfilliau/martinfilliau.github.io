@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /rss/
+Disallow: /~martin/
+Disallow: /projects.html.en
+Disallow: /projects.html.fr
+Disallow: /index.html.en
+Disallow: /index.html.fr
+Disallow: /cv_martin_filliau_fr.pdf
+Disallow: /blog/
+Disallow: /cv_martin_filliau_europass_en.xml
+Disallow: /cv_martin_filliau_europass_fr.xml
+Allow: /
+
