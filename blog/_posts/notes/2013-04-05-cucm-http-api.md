@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building lightweight HTTP services in Java
+category: Technology, Java
 ---
 
 Our telecoms projects requires access to a SOAP Web Service called [Cisco "CUCM" Administrative XML](http://developer.cisco.com/web/axl/docs), used to manage Cisco IP phones. Our project being a Django (Python) application, we used the de facto SOAP library for Python called [Suds](https://fedorahosted.org/suds/).

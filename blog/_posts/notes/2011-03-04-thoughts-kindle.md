@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts on Kindle
-category: Projects
+category: Technology
 ---
 
 I have been using a Kindle for a few months, and I am just starting to enjoy it.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making links between paper notes and the "virtual world"
-category: Projects
+category: Technology
 ---
 
 I want to take notes about a resource I am currently reading on my computer. How to make links between notes taken on paper and resources (URLs, files stored in computers...)?
