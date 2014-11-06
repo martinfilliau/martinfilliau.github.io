@@ -9,7 +9,9 @@ Having a software engineering background, I am interested by the "Science of dat
 
 [MSc Dissertation "Semantic Mashup to Query Localised Data"]({{ site.url }}/public/documents/msc-dissertation-filliau-2011.pdf)
 
-[CV (PDF)]({{ site.url }}/public/documents/cv_martin_filliau_en.pdf)
+[English CV (PDF)]({{ site.url }}/public/documents/cv_martin_filliau_en.pdf)
+
+[French CV (PDF)]({{ site.url }}/public/documents/cv_martin_filliau_fr.pdf)
 
 Email: [martin@filliau.com](mailto:martin@filliau.com)
 
