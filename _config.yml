@@ -9,11 +9,11 @@ permalink:        pretty
 title:            Martin Filliau
 tagline:          'Software developer'
 description:      'Software developer'
-url:              http://martin.filliau.com
+url:              https://martin.filliau.com
 
 author:
   name:           'Martin Filliau'
-  url:            http://martin.filliau.com
+  url:            https://martin.filliau.com
 
 paginate:         5
 

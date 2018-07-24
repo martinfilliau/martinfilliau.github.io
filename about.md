@@ -16,7 +16,7 @@ Having a software engineering background, I am interested by the "Science of dat
 Email: [martin@filliau.com](mailto:martin@filliau.com)
 
 Profiles on the web:
-<a rel="me" href="http://uk.linkedin.com/in/martinfilliau">LinkedIn</a>,
-<a rel="me" href="http://www.flickr.com/photos/nitramf">Flickr</a>,
-<a rel="me" href="http://twitter.com/martinfilliau">Twitter</a>,
-<a rel="me" href="http://www.github.com/martinfilliau">Github</a>
+<a rel="me" href="https://www.linkedin.com/in/martinfilliau">LinkedIn</a>,
+<a rel="me" href="https://www.flickr.com/photos/nitramf">Flickr</a>,
+<a rel="me" href="https://twitter.com/martinfilliau">Twitter</a>,
+<a rel="me" href="https://www.github.com/martinfilliau">Github</a>
