@@ -8,7 +8,7 @@ Software developer at [Weda](https://weda.fr), I have been previously working at
 
 Having a software engineering background, I am interested by the "Science of data" (Semantic Web, Knowledge Management, Information Retrieval, Data visualisation, localised search, crisis / emergency mapping...) and pervasive applications (Smart cities, Web of Things, Urban computing...). I am also interested by communication and marketing.
 
-[MSc Dissertation "Semantic Mashup to Query Localised Data"]({{ site.url }}/public/documents/msc-dissertation-filliau-2011.pdf)
+[MSc Dissertation "Semantic Mashup to Query Localised Data"]({{ site.url }}/public/documents/msc-dissertation-filliau-2011.pdf) from my MSc in Computer Science at Oxford Brookes University.
 
 [English CV (PDF)]({{ site.url }}/public/documents/cv_martin_filliau_en.pdf)
 
