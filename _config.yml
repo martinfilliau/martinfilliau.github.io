@@ -1,24 +1,24 @@
 # Dependencies
-markdown:         kramdown 
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Martin Filliau
-tagline:          'Software developer'
-description:      'Software developer'
-url:              https://martin.filliau.com
+title: Martin Filliau
+tagline: "Software engineer"
+description: "Software engineer"
+url: https://martin.filliau.com
 
 author:
-  name:           'Martin Filliau'
-  url:            https://martin.filliau.com
+  name: "Martin Filliau"
+  url: https://martin.filliau.com
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.0.0
+version: 2.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/poole/hyde
