@@ -1,36 +1,165 @@
----
-layout: default
-title: Home
----
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Martin Filliau</title>
+        <link rel="stylesheet" href="/bulma-no-dark-mode.min.css" />
+        <link rel="icon" type="image/ico" href="favicon.ico" />
+        <style>
+            html,
+            body {
+                background-color: #f5f5f5;
+            }
+            .section {
+                padding-top: 5rem;
+                padding-bottom: 5rem;
+            }
+            .social-links a {
+                margin-right: 1rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="section">
+            <div class="container">
+                <div class="box has-background-white has-text-centered">
+                    <h1 class="title is-2">Martin Filliau</h1>
+                    <p class="subtitle is-5 has-text-grey">
+                        Senior Software Engineer · Architect
+                    </p>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+                    <!-- About Section -->
+                    <div class="content has-text-left mt-5">
+                        <p>
+                            With over 10 years of experience in software
+                            engineering, I bring a broad understanding of how to
+                            deliver business value across the entire software
+                            lifecycle — from architecture and development to
+                            testing and operations.
+                        </p>
+                        <p>
+                            As a software architect, I am a strong advocate for
+                            software craftsmanship practices, and I specialize
+                            in Event-Driven architectures and Domain-Driven
+                            Design (DDD). I strive to design resilient,
+                            anti-fragile, and evolvable systems, with a strong
+                            focus on software quality and long-term
+                            sustainability.
+                        </p>
+                        <p>
+                            I am also passionate about continuous improvement
+                            and lean thinking, which has led me to pursue a
+                            Green Belt certification in Lean Six Sigma.
+                        </p>
+                    </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+                    <!-- Social Links -->
+                    <div class="social-links mt-6">
+                        <a
+                            href="https://github.com/martinfilliau"
+                            class="button is-link is-light"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub
+                        </a>
+                        <a
+                            href="https://www.linkedin.com/in/martinfilliau"
+                            class="button is-link is-light"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            LinkedIn
+                        </a>
+                        <a
+                            href="https://bsky.app/profile/martin.filliau.com"
+                            class="button is-link is-light"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Bluesky
+                        </a>
+                        <a
+                            href="/documents/cv-fr.pdf"
+                            class="button is-primary is-light"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            CV (FR)
+                        </a>
+                    </div>
+
+                    <!-- Current Position -->
+                    <div class="content has-text-left mt-6">
+                        <h2 class="title is-4">Current Position</h2>
+                        <p>
+                            <strong
+                                >Senior Software Engineer @
+                                <a
+                                    href="https://www.qomben.com"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    >QOMBEN</a
+                                ></strong
+                            >
+                        </p>
+                        <p>
+                            At QOMBEN, I contribute to the development of
+                            modern, scalable software solutions in the
+                            compensation and benefits (HR) space.
+                        </p>
+                    </div>
+
+                    <!-- Featured Projects -->
+                    <div class="content has-text-left mt-6">
+                        <h2 class="title is-4">Featured projects</h2>
+                        <ul>
+                            <li>
+                                <strong
+                                    ><a
+                                        href="https://github.com/martinfilliau/LivingDocumentation"
+                                        target="_blank"
+                                        >Living Documentation</a
+                                    ></strong
+                                ><br />
+                                Some tools to generate documentation from your
+                                source code, following the principles of Living
+                                Documentation introduced by Cyrille Martraire.
+                            </li>
+                            <li class="mt-3">
+                                <strong
+                                    ><a
+                                        href="https://github.com/martinfilliau/BookQuotes"
+                                        target="_blank"
+                                        >Book Quotes</a
+                                    ></strong
+                                ><br />
+                                Small web application made to explore the
+                                capabilities of WebAssembly, using Blazor
+                                WebAssembly (.NET). Generates a markdown file
+                                from an epub and XML annotations files.
+                            </li>
+                            <li class="mt-3">
+                                <strong
+                                    ><a
+                                        href="/documents/msc-dissertation-filliau-2011.pdf"
+                                        target="_blank"
+                                        >MSc Dissertation "Semantic Mashup to
+                                        Query Localised Data"</a
+                                    ></strong
+                                ><br />
+                                Written in 2011 for my MSc in Computer Science
+                                at
+                                <a href="https://brookes.ac.uk" target="_blank"
+                                    >Oxford Brookes University</a
+                                >, mainly about Semantic Web and geospatial
+                                search.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>

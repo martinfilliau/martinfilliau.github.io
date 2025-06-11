@@ -8,17 +8,17 @@
 <url>
   <loc>http://martin.filliau.com/index.html</loc>
   <priority>1.0</priority>
-  <lastmod>2012-05-26</lastmod>
+  <lastmod>2025-06-11</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://martin.filliau.com/cv_martin_filliau_en.pdf</loc>
+  <loc>http://martin.filliau.com/documents/cv-fr.pdf</loc>
   <priority>0.9</priority>
   <lastmod>2012-05-26</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-    <loc>http://martin.filliau.com/msc-dissertation-filliau-2011.pdf</loc>
+    <loc>http://martin.filliau.com/documents/msc-dissertation-filliau-2011.pdf</loc>
     <priority>0.9</priority>
     <lastmod>2012-04-01</lastmod>
     <changefreq>monthly</changefreq>

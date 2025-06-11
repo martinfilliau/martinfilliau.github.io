@@ -1,4 +1,3 @@
-martinfilliau.github.io
-=======================
+# martinfilliau.github.io
 
-Powered by Jekyll and theme: "[Hyde](https://github.com/poole/hyde)"
+Uses plain HTML and Bulma CSS
