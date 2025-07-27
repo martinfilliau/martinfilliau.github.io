@@ -6,19 +6,31 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://martin.filliau.com/index.html</loc>
+  <loc>https://martin.filliau.com/index.html</loc>
   <priority>1.0</priority>
-  <lastmod>2025-06-11</lastmod>
+  <lastmod>2025-07-25</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://martin.filliau.com/documents/cv-fr.pdf</loc>
+  <loc>https://martin.filliau.com/thoughts/2025-maniac-benjamin-labatut.html</loc>
+  <priority>0.9</priority>
+  <lastmod>2025-07-27</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://martin.filliau.com/thoughts/2025-coffee-roasting-IT-architecture.html</loc>
+  <priority>0.9</priority>
+  <lastmod>2025-07-27</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://martin.filliau.com/documents/cv-fr.pdf</loc>
   <priority>0.9</priority>
   <lastmod>2012-05-26</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-    <loc>http://martin.filliau.com/documents/msc-dissertation-filliau-2011.pdf</loc>
+    <loc>https://martin.filliau.com/documents/msc-dissertation-filliau-2011.pdf</loc>
     <priority>0.9</priority>
     <lastmod>2012-04-01</lastmod>
     <changefreq>monthly</changefreq>
